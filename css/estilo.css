@@ -1,0 +1,28 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header__titulo{
+    
+    font-style: 3rem;
+    padding:20px;
+    color:blue;
+    text-align: center;
+}
+.header__link{
+    font-size: 2rem;
+    padding:10px;
+    background-color:cyan ;
+}
+.header__link:hover{
+    background-color: blue;
+    color:cyan;
+}
+.header__link:active{
+    text-decoration: none;
+    color:black;
+}
+.header__link:visited{
+    color:red;
+}
